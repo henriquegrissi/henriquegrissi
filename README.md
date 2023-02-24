@@ -27,5 +27,5 @@
   <a href="https://www.linkedin.com/in/henrique-grissi-7a626621a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/henriquegrissi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/henriquegrissi/henriquegrissi/blob/output/github-contribution-grid-snake.svg)
 
