@@ -1,8 +1,8 @@
-### Oii! Eu sou o Henrique 
+### Hi there! Im Henrique :) 
 
-- 🔭 Hoje trabalho com Front
-- 🌱 Estudando Java e JavaScript
-- 😄 Pronouns: ele/dele
+- 🔭 Working with Front-end
+- 🌱 Studying Java and JavaScript
+- 😄 Pronouns: he/him
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -17,7 +17,10 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">          
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+          
 </div>
 
  ##
