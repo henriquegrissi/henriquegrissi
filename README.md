@@ -3,6 +3,7 @@
 - 🔭 Working with Front-end
 - 🌱 Studying Java and JavaScript
 - 😄 Pronouns: he/him
+- ⚡ Fun fact: I love to speak different languages and I already speak 4:  🇧🇷/🇵🇹 , 🇺🇸/🇬🇧 , 🇩🇪, 🇪🇸
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
