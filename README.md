@@ -1,5 +1,7 @@
 ### Hi there! Im Henrique :) 
 
+#### Im a software engineer student at PUC Minas.
+
 - 🔭 Working with Front-end
 - 🌱 Studying Java and JavaScript
 - 😄 Pronouns: he/him
