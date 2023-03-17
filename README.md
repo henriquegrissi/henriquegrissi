@@ -3,7 +3,7 @@
 #### Im a software engineer student at PUC Minas.
 
 - 🔭 Working with Front-end
-- 🌱 Studying Java and JavaScript
+- 🌱 Studying Java, JavaScript and Python :) 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to speak different languages and I already speak 4:  🇧🇷/🇵🇹 , 🇺🇸/🇬🇧 , 🇩🇪, 🇪🇸
 
@@ -23,7 +23,8 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">          
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-          
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+
 </div>
 
  ##
